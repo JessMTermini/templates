@@ -2,7 +2,7 @@
 
 Generic Prisma schema example for a SaaS that has a referral system.
 
-![Database diagram](https://raw.githubusercontent.com/prisma/prisma-schema-examples/main/saas/diagram.png)
+![Database diagram](https://raw.githubusercontent.com/prisma/prisma-schema-examples/main/SaaS/diagram.png)
 
 (Generated via https://github.com/notiz-dev/prisma-dbml-generator + https://dbdiagram.io)
 

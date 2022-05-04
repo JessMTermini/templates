@@ -1,6 +1,6 @@
 # Music Streaming Service
 
-![Database diagram](https://raw.githubusercontent.com/prisma/prisma-schema-examples/main/musicStreamingService/diagram.png)
+![Database diagram](https://raw.githubusercontent.com/prisma/prisma-schema-examples/main/Music%20Streaming%20Service/diagram.png)
 
 (Generated via https://github.com/notiz-dev/prisma-dbml-generator + https://dbdiagram.io)
 
