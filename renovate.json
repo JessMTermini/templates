@@ -3,7 +3,7 @@
   "reviewers": ["team:devprod-eng"],
   "semanticCommits": "enabled",
   "dependencyDashboard": true,
-  "rebaseWhen": "behind-base-branch",
+  "rebaseWhen": "conflicted",
   "timezone": "Europe/Berlin",
   "schedule": ["every weekend"],
   "packageRules": [
